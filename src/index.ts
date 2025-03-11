@@ -1,5 +1,5 @@
 import { Hono } from 'hono'
-import { EnumUserRoles } from '../shared-types/src'
+import { EnumUserRoles } from '../shared-types'
 
 const app = new Hono()
 
